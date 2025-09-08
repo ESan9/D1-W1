@@ -23,7 +23,7 @@ public class Es3 {
         System.out.println(result);
         int num = 4;
         System.out.println(pari(num));
-        double l6 = 3;
+        double l6 = 2;
         double l7 = 4;
         double l8 = 5;
         System.out.println(areaTriangle(l6, l7, l8));
